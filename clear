@@ -1,0 +1,51 @@
+[33mcommit 85984f22856be752bd3b50430a85fc772a7e507b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: cf7e7f0 27bb50e
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 19:36:42 2024 +0545
+
+    add both feature
+
+[33mcommit cf7e7f0d51a57dc85459787d21f7fe0332975ca9[m
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 19:30:30 2024 +0545
+
+    add dropdown
+
+[33mcommit 27bb50e41eb27a20ecd674eef433484870136dbe[m
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 19:29:12 2024 +0545
+
+    button
+
+[33mcommit 7783ecbc39208446d1d7b560127c620f7f67145f[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 19:17:46 2024 +0545
+
+    new feature
+
+[33mcommit b0fc0d186ef3cb3d9ba39a2ad13bb8c9fba4c693[m
+Merge: 5082ae0 7783ecb
+Author: Aroon55 <160324550+Aroon55@users.noreply.github.com>
+Date:   Sat Feb 17 19:14:10 2024 +0545
+
+    Merge pull request #1 from Aroon55/feature1
+    
+    new feature
+
+[33mcommit 5082ae0ce399802581f4450cf716b68535799526[m
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 19:07:27 2024 +0545
+
+    Fixed
+
+[33mcommit 4cc780952c38e7374c8a3cd7bf2aef281da41027[m
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 19:05:06 2024 +0545
+
+    Add readme
+
+[33mcommit fa3dbd8c962eb093d0cd16a16bda31524056f662[m
+Author: Aroon55 <darktranquility222@gmail.com>
+Date:   Sat Feb 17 18:50:56 2024 +0545
+
+    Initial file
