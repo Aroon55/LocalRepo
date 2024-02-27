@@ -1,6 +1,10 @@
-<p>very new paragraph</p>
 on:
-schedule:
-- cron: "27 19 * * * "
+    schedule:
+    - cron: '27 19 * * *'
+jobs:
+    build:
+        name: Code checkout
+        runs-on: ubuntu
+        
 <p>maoin</p>
 <p>hello world</p>
